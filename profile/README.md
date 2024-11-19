@@ -14,8 +14,7 @@ To develop groundbreaking software that pushes the boundaries of technology to m
 
 ## 👥 Core Team
 
-- [Gurov](https://github.com/Gur0v) - Founder of the organization programmer and maintainer
-- [9vlc](https://github.com/8mpv) - Lead programmer & maintainer, likes furries too much
+- [Gurov](https://github.com/Gur0v) - Founder of the organization programmer and maintainer, likes furries way too much
 
 ## 🤝 Contributors
 
