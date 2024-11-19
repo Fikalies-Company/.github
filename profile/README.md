@@ -14,7 +14,7 @@ To develop groundbreaking software that pushes the boundaries of technology to m
 
 ## 👥 Core Team
 
-- [Gurov](https://github.com/Gur0v) - Founder and MVP of the organization, lead programmer and maintainer
+- [Gurov](https://github.com/Gur0v) - Founder of the organization programmer and maintainer
 
 ## 🤝 Contributors
 
