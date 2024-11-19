@@ -14,7 +14,7 @@ To develop groundbreaking software that pushes the boundaries of technology to m
 
 ## 👥 Core Team
 
-- [Gurov](https://github.com/Gur0v) - Founder of the organization programmer and maintainer, likes furries way too much
+- [Gurov](https://github.com/Gur0v) - Founder of the organization programmer and maintainer
 
 ## 🤝 Contributors
 
