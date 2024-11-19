@@ -1,6 +1,6 @@
-# DiddySoftworks
+# Fikalies Company
 
-DiddySoftworks is an innovative software development organization committed to create unbelievably shitty solutions.
+Fikalies Company is an innovative software development organization committed to create unbelievably shitty solutions.
 
 ## 🚀 Our Mission
 
@@ -22,7 +22,7 @@ We're excited to welcome contributors to our projects. Be the first to contribut
 
 ## 📄 License
 
-All DiddySoftworks projects are released under the [MIT License](https://opensource.org/licenses/MIT) unless otherwise specified in the project's repository.
+All Fikalies Company projects are released under the [MIT License](https://opensource.org/licenses/MIT) unless otherwise specified in the project's repository.
 
 ## 📬 Contact Us
 
@@ -30,4 +30,4 @@ For any questions or suggestions, please open an issue in the relevant project r
 
 ---
 
-Made with hate by the DiddySoftworks team
+Made with hate by the Fikalies Company team
