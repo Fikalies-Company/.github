@@ -10,7 +10,7 @@ To develop groundbreaking software that pushes the boundaries of technology to m
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [PonOS](https://github.com/Fikalies-Company/ponos) | The best OS known to mankind based on non-GNU Linux | Semi-active |
+| [PonOS](https://github.com/Fikalies-Company/ponos) | The best OS known to mankind based on non-GNU Linux | Active af |
 
 ## 👥 Core Team
 
