@@ -10,7 +10,7 @@ To develop groundbreaking software that pushes the boundaries of technology to m
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [PonOS](https://github.com/Fikalies-Company/ponos) | The best OS known to mankind based on non-GNU Linux | Active af |
+| [P.O.N.O.S.](https://github.com/Fikalies-Company/ponos) | Preemptive Onlinebase Netroot OS is a cloud-native operating system that offers real-time collaboration and preemptive multitasking for optimal performance. Designed for security and scalability, it enables seamless management of applications and data in a dynamic online environment. | Maintained |
 
 ## 👥 Core Team
 
